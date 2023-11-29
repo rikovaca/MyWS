@@ -14,11 +14,11 @@
 
 @media only screen and (max-width: 600px) {
         .borde {
-            height: 150px; /* Cambia la altura para pantallas más pequeñas */
+            height: 175px; /* Cambia la altura para pantallas más pequeñas */
         }
     
         .content {
-            margin-top: 175px; /* Ajusta el margen para pantallas más pequeñas */
+            margin-top: 200px; /* Ajusta el margen para pantallas más pequeñas */
         }
     }
 
