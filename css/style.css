@@ -12,7 +12,7 @@
     	align-items: center;
     }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 950px) {
         .borde {
             height: 150px; /* Cambia la altura para pantallas más pequeñas */
         }
