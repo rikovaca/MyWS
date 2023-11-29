@@ -25,11 +25,11 @@
 @media only screen and (min-width: 1024px) and (max-width: 1280px) {
     /* Reglas para pantallas con initial-scale=1.0 */
     .borde {
-            height: 150px; /* Cambia la altura para pantallas más pequeñas */
+            height: 170px; /* Cambia la altura para pantallas más pequeñas */
         }
     
         .content {
-            margin-top: 175px; /* Ajusta el margen para pantallas más pequeñas */
+            margin-top: 195px; /* Ajusta el margen para pantallas más pequeñas */
         }
 }
 
